@@ -3,6 +3,7 @@
 
 👨‍💻 Data Engineer passionate about building scalable data solutions and optimizing data workflows.<br />
 🔧 Experienced with cloud platforms (AWS, GCP) and big data technologies like Spark and Kafka.<br />
+🚀 Proficient in Python, SQL, PySpark, Kafka, AWS, Snowflake, and Tableau <br />
 🎓 Master’s in Computer Engineering from California State University, Northridge.<br />
 🌱 Always exploring big data technologies, cloud platforms, and data governance!<br />
 💬 Currently diving deeper into data governance and data security!<br />

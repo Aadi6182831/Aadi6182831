@@ -1,10 +1,12 @@
 
-### Hi, I'm [Your Name]!
+### Hi, I'm Adi venkat Ramineni!
 
 👨‍💻 Data Engineer passionate about building scalable data solutions and optimizing data workflows.<br />
-🎓 Studied Computer Engineering at California State University, Northridge<br />
-☁️ Currently working with AWS and Azure to design distributed data pipelines.<br />
-💭 Always exploring big data technologies, cloud platforms, and data governance!<br />
+🔧 Experienced with cloud platforms (AWS, GCP) and big data technologies like Spark and Kafka.<br />
+🎓 Master’s in Computer Engineering from California State University, Northridge.<br />
+🌱 Always exploring big data technologies, cloud platforms, and data governance!<br />
+💬 Currently diving deeper into data governance and data security!<br />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi6182831
 )](https://github.com/anuraghazra/github-readme-stats)

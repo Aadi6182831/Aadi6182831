@@ -1,5 +1,5 @@
 
-####  Hi, I'm Adi venkat Ramineni!
+####  Hi, I'm Adi Venkat Ramineni!
 
 👨‍💻 Data Engineer passionate about building scalable data solutions and optimizing data workflows.<br />
 🔧 Experienced with cloud platforms (AWS, GCP) and big data technologies like Spark and Kafka.<br />

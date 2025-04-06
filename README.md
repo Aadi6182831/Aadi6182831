@@ -9,20 +9,6 @@
 💬 Currently diving deeper into data governance and data security!<br />
 
 
-Work Experiece: Projects
-1.Scalable ETL Pipeline for Financial Data Processing
-Designed and implemented an efficient ETL pipeline using T-SQL, Python, and Azure Data Factory to handle large volumes of financial data. The pipeline processes raw data from multiple sources, transforming and loading it into an optimized data warehouse, ensuring seamless accessibility for business intelligence teams.Improved data accessibility for analytics teams, reducing query response times by 30%.
-
-2.Automated Data Validation and Monitoring Framework
-Developed a robust data validation and monitoring framework using Azure Monitor, Log Analytics, and PowerShell to ensure the integrity of financial data and track data processing issues in real-time. The solution automatically detects anomalies and sends alerts to minimize disruptions.Reduced processing errors by 40% and increased the accuracy of financial data reports.
-
-3.End-to-End ETL Pipeline for Healthcare Data
-Description: Designed and deployed a scalable ETL pipeline using SQL, Python, and AWS Glue to process healthcare claims and billing data. The pipeline extracts data from multiple sources, cleanses it, and loads it into a data warehouse for analysis.Streamlined data processing, improving access to operational and financial insights for healthcare decision-makers.
-
-4.Self-Service Analytics Tools for Healthcare Insights
-Developed self-service analytics tools using Amazon QuickSight, Tableau, and Power BI, enabling business users to independently explore key healthcare metrics and insights. This empowered teams to make data-driven decisions faster.Empowered business users to generate reports on-demand, reducing dependence on IT teams and improving operational efficiency.
-
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=flat-square&logo=databricks&logoColor=white) 

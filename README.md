@@ -1,9 +1,10 @@
 
 ### Hi, I'm Adi Venkat Ramineni !
 
-👨‍💻 Software Data Engineer passionate about building scalable data solutions and optimizing data workflows, Microsoft Certified Azure Data Engineer Associate.<br />
-🔧 Experienced with cloud platforms (AWS, Azure,GCP) and big data technologies like Spark and Kafka.<br />
-🚀 Proficient in Python, SQL, PySpark,Airflow, AWS, Snowflake,PowerBI, Dbt and Tableau <br />
+👨‍💻 Software & AI Data Engineer passionate about building scalable data solutions and optimizing data workflows, Microsoft Certified Azure Data Engineer Associate.<br />
+🔧 Experienced with cloud platforms (AWS, Azure) and big data technologies like Spark and Kafka.<br />
+🚀 Proficient in  PySpark,Airflow, AWS, Snowflake,PowerBI, Dbt and Tableau <br />
+🔧 Skilled Python,Machine Learning, Pandas, SQL, Numpy, Matplotli, Scikit-learn.<br />
 🎓 Master’s in Computer Engineering from California State University, Northridge.<br />
 🌱 Always exploring Big Data Technologies, Cloud Platforms, and Data Governance!<br />
 💬 Currently diving deeper into data governance and data security!<br />

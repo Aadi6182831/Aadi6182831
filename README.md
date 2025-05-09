@@ -1,5 +1,5 @@
 
-### Hi, I'm Adi Venkat Ramineni !
+### Hi, I'm Venkat Ramineni !
 
 👨‍💻 Software & AI Data Engineer passionate about building scalable data solutions and optimizing data workflows, Microsoft Certified Azure Data Engineer Associate.<br />
 🔧 Experienced with cloud platforms (AWS, Azure) and big data technologies like Spark and Kafka.<br />

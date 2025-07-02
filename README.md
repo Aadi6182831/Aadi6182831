@@ -1,7 +1,7 @@
 
 ### Hi, I'm Venkat Ramineni !
 
-👨‍💻 Software & AI Data Engineer passionate about building scalable data solutions and optimizing data workflows, Microsoft Certified Azure Data Engineer Associate.<br />
+👨‍💻 Software Data Engineer passionate about building scalable data solutions and optimizing data workflows, Microsoft Certified Azure Data Engineer Associate.<br />
 🔧 Experienced with cloud platforms (AWS, Azure) and big data technologies like Spark and Kafka.<br />
 🚀 Proficient in  PySpark,Airflow, AWS, Snowflake,PowerBI, Dbt and Tableau <br />
 🔧 Skilled Python,Machine Learning, Pandas, SQL, Numpy, Matplotli, Scikit-learn.<br />

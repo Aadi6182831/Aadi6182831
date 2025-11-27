@@ -1,5 +1,5 @@
 
-### Hi, I'm Venkat Ramineni !
+### Hi, I'm Venkat !
 
 👨‍💻 Software Data Engineer passionate about building scalable data solutions and optimizing data workflows, Microsoft Certified Azure Data Engineer Associate.<br />
 🔧 Experienced with cloud platforms (AWS, Azure) and big data technologies like Spark and Kafka.<br />
@@ -30,13 +30,6 @@
 
 ### 🔧 DevOps & Tools  
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![APIs](https://img.shields.io/badge/APIs-%2300B4D8.svg?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-
-
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/ramineni16331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramineni316@gmail.com)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ud5tDaUZ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@18b91a04h6) 
-
-
 
 
 
